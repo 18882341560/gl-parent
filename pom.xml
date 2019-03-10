@@ -14,6 +14,7 @@
     <groupId>com.greelee</groupId>
     <artifactId>gl-parent</artifactId>
     <name>gl-parent</name>
+    <packaging>pom</packaging>
     <description>葛林自己库中所有项目的爸爸</description>
     <version>1.0-SNAPSHOT</version>
 
